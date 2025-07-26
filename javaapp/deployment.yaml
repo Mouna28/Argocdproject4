@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: javaapp
-        image: mounalatha/helloworld-devopsproject2:2025-07-23_0647
+        image: iamtesting:v1
         ports:
         - containerPort: 8085
 
