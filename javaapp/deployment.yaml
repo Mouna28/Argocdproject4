@@ -16,5 +16,4 @@ spec:
       - name: javaapp
         image: iamtesting:v1
         ports:
-        - containerPort: 8085
-
+        - containerPort: 8080
